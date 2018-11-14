@@ -1,2 +1,3 @@
 # web-RTC
-Web RTC application
+
+Web RTC application & HTTPS-secured server

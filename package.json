@@ -1,0 +1,25 @@
+{
+  "name": "WebRTC",
+  "version": "0.0.1",
+  "description": "This is the gulp file for Web-RTC application created by Tiia Rautavesi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "dependencies": {
+    "angular": "latest",
+    "angular-ui-router": "~0.2.11",
+    "dat-gui": "latest",
+    "express": "^3.0.6",
+    "passport": "^0.4.0",
+    "path": "latest",
+    "q": "latest",
+    "sequelize": "latest",
+    "socket.io": "^2.1.1",
+    "tedious": "latest"
+  }
+}
